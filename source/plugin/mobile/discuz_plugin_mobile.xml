@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Plugin]]></item>
+	<item id="Data">
+		<item id="plugin">
+			<item id="available"><![CDATA[1]]></item>
+			<item id="adminid"><![CDATA[1]]></item>
+			<item id="name"><![CDATA[อุปกรณ์พกพา]]></item>
+			<item id="identifier"><![CDATA[mobile]]></item>
+			<item id="description"><![CDATA[]]></item>
+			<item id="datatables"><![CDATA[]]></item>
+			<item id="directory"><![CDATA[mobile/]]></item>
+			<item id="copyright"><![CDATA[Comsenz Inc.]]></item>
+			<item id="version"><![CDATA[1.4.8]]></item>
+			<item id="__modules">
+				<item id="0">
+					<item id="name"><![CDATA[mobile]]></item>
+					<item id="menu"><![CDATA[]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[28]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[0]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="1">
+					<item id="name"><![CDATA[mobile]]></item>
+					<item id="menu"><![CDATA[]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[11]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[0]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+			</item>
+		</item>
+		<item id="version"><![CDATA[X2.5,X3,X3.1,X3.2]]></item>
+		<item id="language">
+			<item id="scriptlang">
+				<item id="mobile_tip_ios"><![CDATA[ใช้งานเว็บไซต์นี้ผ่านทางแอพพลิเคชัน <a href="http://www.discuz.net/mobile.php?platform=ios">สำหรับอุปกรณ์พกพา</a>]]></item>
+				<item id="mobile_tip_android"><![CDATA[ใช้งานเว็บไซต์นี้ผ่านทางแอพพลิเคชัน <a href="http://www.discuz.net/mobile.php?platform=android">สำหรับอุปกรณ์พกพา</a>]]></item>
+				<item id="mobile_tip_wp7"><![CDATA[ใช้งานเว็บไซต์นี้ผ่านทางแอพพลิเคชัน <a href="http://www.discuz.net/mobile.php?platform=windowsphone">สำหรับอุปกรณ์พกพา</a>]]></item>
+				<item id="mobile_extend_newthread"><![CDATA[โพสต์ล่าสุด]]></item>
+				<item id="mobile_extend_newreply"><![CDATA[ตอบล่าสุด]]></item>
+				<item id="mobile_extend_digest"><![CDATA[สาระสำคัญล่าสุด]]></item>
+				<item id="mobile_extend_newpic"><![CDATA[รูปภาพล่าสุด]]></item>
+				<item id="mobile_fromtype_ios"><![CDATA[โพสต์จาก: iPhone]]></item>
+				<item id="mobile_fromtype_android"><![CDATA[โพสต์จาก: Android]]></item>
+				<item id="mobile_fromtype_windowsphone"><![CDATA[โพสต์จาก: WindowsPhone]]></item>
+				<item id="mobile_post_author_visible"><![CDATA[โพสต์นี้มองเห็นได้เฉพาะเจ้าของโพสต์เท่านั้น]]></item>
+                <item id="mobilesign_formhash_failed"><![CDATA[ไม่ผ่านการตรวจสอบค่า formhash หรือยังไม่ได้เข้าสู่ระบบ]]></item>
+                <item id="mobilesign_success"><![CDATA[ลงทะเบียนเรียบร้อยแล้ว]]></item>
+                <item id="mobilesign_failed"><![CDATA[ลงทะเบียนไม่สำเร็จ]]></item>
+			</item>
+			<item id="templatelang">
+				<item id="mobile_tips"><![CDATA[คำแนะนำเกี่ยวกับ QR โค้ด<br />แนะนำให้ใช้งาน QR โค้ด เพื่อเข้าถึงเว็บไซต์อย่างรวดเร็ว:<br />1. หลังจากที่ติดตั้งแอพพลิเคชันเรียบร้อยแล้ว คลิกที่นี่เพื่อเพิ่ม QR โค้ดของเว็บไซต์นี้<br />2. ใช้กล้องในอุปกรณ์ของคุณทำการสแกน QRCode เพื่อจัดเก็บในบุ๊คมาร์กของคุณ]]></item>
+				<item id="username"><![CDATA[ชื่อผู้ใช้]]></item>
+				<item id="password"><![CDATA[รหัสผ่าน]]></item>
+				<item id="password_confirm"><![CDATA[ยืนยันรหัสผ่าน]]></item>
+				<item id="email"><![CDATA[Email]]></item>
+				<item id="invite_code"><![CDATA[โค้ดเชิญ]]></item>
+				<item id="register_message"><![CDATA[เหตุผลในการลงทะเบียน]]></item>
+				<item id="seccode"><![CDATA[รหัสยืนยัน]]></item>
+				<item id="change_seccode"><![CDATA[เปลี่ยน]]></item>
+				<item id="secqaa"><![CDATA[คำถามและคำตอบ]]></item>
+				<item id="close"><![CDATA[ปิด]]></item>
+				<item id="admin_tips"><![CDATA[เพื่อแสดงโลโก้เว็บไซต์ของคุณ อัปโหลดไฟล์รูปภาพ "mobile.png" (ขนาด 178x178px) ไปยังไดเรกทอรีหลักที่ติดตั้ง Discuz!]]></item>
+				<item id="iphone_alt"><![CDATA[iphone-ไอโฟน และ ไอแพด]]></item>
+				<item id="android_alt"><![CDATA[Android-โทรศัพท์มือถือหรืออุปกรณ์พกพา ที่มีระบบปฏิบัติการเป็นแอนดรอยด์ ทุกรุ่น ทุกยี่ห้อ]]></item>
+				<item id="windowsphone_alt"><![CDATA[WinodwsPhone-โทรศัพท์มือถือหรืออุปกรณ์พกพา ที่มีระบบปฏิบัติการเป็น WindowsPhone7 ขึ้นไป ทุกรุ่น ทุกยี่ห้อ]]></item>
+				<item id="discuzmobile_alt"><![CDATA[การเข้าเยี่ยมชมเว็บไซต์บน โทรศัพท์มือถือ หรือ อุปกรณ์พกพา มีดีอย่างไร...?]]></item>
+				<item id="tips_1"><![CDATA[สามารถเข้าเยี่ยมชมเว็บไซต์ เข้าใช้งานได้ ทุกที่ ทุกเวลา]]></item>
+				<item id="tips_1_desc"><![CDATA[ตราบใดที่มีโทรศัพท์มือถืออยู่ในมือ คุณสามารถ ดูโพสต์, โพสต์ใหม่, แสดงความคิดเห็น, ได้อย่างรวดเร็วและอย่างง่ายดาย]]></item>
+				<item id="tips_2"><![CDATA[ใช้งานง่าย สะดวก สนุก และเพิ่มประสิทธิภาพ]]></item>
+				<item id="tips_2_desc"><![CDATA[รูปแบบอินเตอร์เฟซหน้าจอสัมผัสหลากหลายรูปแบบไม่ซ้ำกัน ทำให้การใช้งานเว็บไซต์บนโทรศัพท์มือถือกลายเป็นสิ่งที่น่ารื่นรมย์ ใช้งานได้อย่างอิสระ]]></item>
+				<item id="tips_3"><![CDATA[แบ่งปันเรื่องราวในชีวิตประจำวันของคุณ]]></item>
+				<item id="tips_3_desc"><![CDATA[ไม่ว่าจะเป็น ข้อความ รูปภาพ ข่าวสาร  เรื่องราวต่างๆ คุณสามารถเข้าสู่ระบบและโพสต์ได้ทันที]]></item>
+				<item id="qr_desc"><![CDATA[เข้าถึงเว็บไซต์อย่างรวดเร็วด้วย QR Code:]]></item>
+				<item id="qr"><![CDATA[QR Code]]></item>
+				<item id="wapmode"><![CDATA[หรือเข้าถึงตามที่อยู่นี้:]]></item>
+				<item id="qqregmode1"><![CDATA[QR โค้ดถูกเพิ่มเรียบร้อย]]></item>
+				<item id="qqregmode2"><![CDATA[QR โค้ดเว็บนี้มีอยู่แล้ว]]></item>
+				<item id="register_validate_email_tips"><![CDATA[การลงทะเบียนจะต้องยืนยันการลงทะเบียนผ่านทางอีเมล โปรดใช้อีเมลที่ถูกต้อง และตรวจสอบอีเมลของคุณหลังจากลงทะเบียนเสร็จ]]></item>
+				<item id="post_hide_reply_hidden"><![CDATA[ถ้าคุณต้องการเห็นข้อความที่ถูกซ่อน กรุณาตอบกลับโพสต์นี้]]></item>
+			</item>
+            <item id="installlang">
+                <item id="mobilesign"><![CDATA[ลงทะเบียนผ่านอุปกรณ์พกพา]]></item>
+            </item>
+		</item>
+		<item id="installfile"><![CDATA[install.php]]></item>
+		<item id="upgradefile"><![CDATA[upgrade.php]]></item>
+	</item>
+</root>
